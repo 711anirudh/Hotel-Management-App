@@ -25,5 +25,12 @@ A simple hotel room booking application developed using Java and Java Swing. Thi
 - Managing application flow and user interaction
 - Organizing Java classes and methods
 
+## How to Run
+
+1. Clone the repository
+2. Open the project in Eclipse or any Java IDE
+3. Run `Main.java`
+4. Use the GUI to manage hotel room bookings
+
 ## Author
 Anirudh C A
